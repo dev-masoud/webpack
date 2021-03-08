@@ -1,0 +1,27 @@
+.table, td, tr {
+  border: 1px solid #2b4849;
+  padding: 20px; }
+
+table {
+  margin-top: 50px;
+  background-color: #d1fdff; }
+
+.box {
+  margin: auto;
+  padding: 50px;
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+input {
+  width: 200px;
+  height: 25px; }
+
+.btn {
+  width: 100px;
+  height: 30px;
+  background-color: #97ff2e;
+  border-color: #264d00; }
+
+/*# sourceMappingURL=main.css.map */
